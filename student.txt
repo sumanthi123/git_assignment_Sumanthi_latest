@@ -1,0 +1,2 @@
+As a student : "learn the MERN stack to build full-stack web applications using MongoDB, Express.js, React, and Node.js."
+And apply these skills real-time.
